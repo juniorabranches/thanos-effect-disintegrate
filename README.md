@@ -1,2 +1,20 @@
 # thanos-effect-disintegrate
-An example of Disintegrate Effect (Thanos) with animejs
+
+## Telas / Screens: 
+
+![View this](assets/gif.gif)
+
+# To run:
+* > npm install
+
+* > ionic serve (run in browser)
+
+or
+
+* > ionic cordova run android 
+
+or
+
+* > ionic cordova run ios 
+
+## Usage [animejs](https://animejs.com/) 
