@@ -2,7 +2,7 @@
 
 ## Telas / Screens: 
 
-![View this](assets/gif.gif)
+![View this](src/assets/gif.gif)
 
 # To run:
 * > npm install
